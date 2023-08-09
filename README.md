@@ -1,8 +1,7 @@
--👋 Hi, I’m Matheus Kevin
-- 👀 I’m interested in Novas  Linguagens de programação
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  @_MATH2
+- ✨ | Hi, I’m Matheus Kevin, Welcome to my GitHub!
+- 🧠 | I’m interested in new languages of programation...
+- 🌱 | I’m currently learning Java and JavaScript
+- 📫 | How to reach me in Instagram: @_math2
 
 <!---
 MKevin2/MKevin2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
